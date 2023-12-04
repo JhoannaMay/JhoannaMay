@@ -1,4 +1,4 @@
-# Hi ^_^ 
+# Hi !! I'm Jhoanna May Lacorte
 
 ## About me:
 
