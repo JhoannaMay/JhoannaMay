@@ -1,7 +1,6 @@
-# Hi !! I'm Jhoanna May Lacorte
+# Hi, I'm Jhoanna May Lacorte 
 
 ## About me:
-
 
 I am Jhoanna May P. Lacorte, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Computer Science program.
 
@@ -17,8 +16,8 @@ New Era University
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/06c346aeaec142609dffcb7c0bd36c73)
 
 ## Skill sets:
--Programming :  Java, Javascript\
--Databases: IBM DB2 Cloud\
+-Programming :  Java
+-Databases: IBM DB2 Cloud
 -Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 You may reach me at:
