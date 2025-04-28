@@ -16,9 +16,9 @@ New Era University
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/06c346aeaec142609dffcb7c0bd36c73)
 
 ## Skill sets:
--Programming :  Java
--Databases: IBM DB2 Cloud
--Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
+ - Programming :  Java
+ - Databases: IBM DB2 Cloud
+- Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 You may reach me at:
  Email: [jhoannalacorte@gmail.com](https://mail.google.com/mail/u/1/?ogbl#inbox)
