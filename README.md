@@ -14,6 +14,9 @@
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ACB4482427F72EC27406B7A61DD10F07E69BB377021F20778B83D61AD8FE95D8)  
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/06c346aeaec142609dffcb7c0bd36c73)  
 - [Introduction to Data Science](https://www.credly.com/badges/44e0cb0a-ec70-4094-a1b4-bcb87cff7cd3/public_url)
+- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/71fd86d9a87038fe0b407e2cb24a2425)
+- [Data Science Tools](https://courses.cognitiveclass.ai/certificates/a434b75802ae4ef9b2d2642c4bf52878#)
+
 ---
 
 ## 🛠️ Tech Stack  
