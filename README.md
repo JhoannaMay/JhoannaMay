@@ -16,6 +16,8 @@
 - [Introduction to Data Science](https://www.credly.com/badges/44e0cb0a-ec70-4094-a1b4-bcb87cff7cd3/public_url)
 - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/71fd86d9a87038fe0b407e2cb24a2425)
 - [Data Science Tools](https://courses.cognitiveclass.ai/certificates/a434b75802ae4ef9b2d2642c4bf52878#)
+- [Getting Started in Google Analytics](https://coursera.org/share/545a8bf36b7101d5a4bed178d22452c7)
+- [Analyze Website Visitors with Google Analytics Segments](https://coursera.org/share/03248eb9055e7935a288a20d8635ebd7)
 
 ---
 
