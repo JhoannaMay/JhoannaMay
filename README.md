@@ -1,10 +1,9 @@
 # Hi, I'm Jhoanna 💐  
 
-**CS student | Data enthusiast | Creative problem-solver 🚀**  
 
 ## 🎓 Education  
 - **BS Computer Science**  
-  *New Era University* (2022 – Present)  
+  *New Era University* (2022 – 2026)  
 
 ---
 
